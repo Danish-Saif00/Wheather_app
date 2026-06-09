@@ -14,7 +14,7 @@ This is a modern weather app built using **React** and **Vite**, providing real-
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - React
 - Vite
@@ -23,7 +23,7 @@ This is a modern weather app built using **React** and **Vite**, providing real-
 
 ---
 
-## 🛠️ How to Run the App
+## How to Run the App
 
 1. **Clone this repo**  
    Open terminal and run:
@@ -50,5 +50,5 @@ VITE_API_KEY=your_openweathermap_api_key
 npm run dev
 
 
-## 🙋‍♂️ Developed by
+## Developed by
 Danish Saif
